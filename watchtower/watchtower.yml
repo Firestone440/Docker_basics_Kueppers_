@@ -1,0 +1,6 @@
+# Docker-Compose-Datei für Watchtower (https://hub.docker.com/r/containrrr/watchtower)
+services:
+  watchtower:
+    image: containrrr/watchtower
+    volumes:
+     - /var/run/docker.sock:/var/run/docker.sock

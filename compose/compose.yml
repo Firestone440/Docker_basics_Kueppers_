@@ -34,7 +34,9 @@ services:
       - lab_net
 
   watchtower:
-    image: containrrr/watchtower
+    # containrrr/watchtower wurde archiviert und ist mit neueren Docker-Engine-Versionen
+    # nicht mehr kompatibel ("client version too old"). Aktiv gepflegter Nachfolge-Fork:
+    image: nickfedor/watchtower
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
     networks:

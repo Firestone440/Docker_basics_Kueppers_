@@ -1,14 +1,10 @@
-# \# Mein Steckbrief
+# Mein Profil
 
 ## Name
-
-Günther Moneyboy
+Vorname Nachname
 
 ## Kurzprofil
+Azubi Fachinformatiker, interessiert an Docker, Netzwerken & Git.
 
-Günther ist der einzig ware Moneyboy
-
-Kontakt
-
-* GitHub: @firestone440
-
+## Kontakt
+- GitHub: @deinusername

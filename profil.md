@@ -1,10 +1,14 @@
-# Mein Profil
+# \# Profile - Konflikttest
 
 ## Name
+
 Vorname Nachname
 
 ## Kurzprofil
-Azubi Fachinformatiker, interessiert an Docker, Netzwerken & Git.
+
+Azubi Fachinformatiker, interessiert an Docker, Netzwerken \& Git.
 
 ## Kontakt
-- GitHub: @deinusername
+
+* GitHub: @deinusername
+

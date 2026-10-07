@@ -1,4 +1,4 @@
-# \# Mein Steckbrief
+# \# Über mich
 
 ## Name
 
